@@ -1,1 +1,0 @@
-import{y as a}from"./base-oIpHj4zO.js";const e=async t=>await a({url:"/category",params:{id:t}}),o=async t=>await a({url:"/category/sub/filter",params:{id:t}}),s=async t=>await a({url:"/category/goods/temporary",method:"POST",data:t});export{o as a,s as b,e as g};
